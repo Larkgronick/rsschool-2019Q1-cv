@@ -1,0 +1,53 @@
+body{
+    width: 1024px;
+    margin: auto;
+}
+.avatar{
+    display: block;
+    width: 160px;
+    height: 180px;
+    border-radius: 6px;
+    margin: 25px auto;
+  
+}
+strong{
+    color: slateblue;
+}
+em{
+    color: royalblue;
+}
+hr{
+    background-color: cornflowerblue;
+    border: none;
+    height: 4px;
+    border-radius: 6px; 
+}
+h1, h2, h3, h4{
+    background-color: cornflowerblue;
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+    font-family: 'PT Sans', 'Ubuntu', sans-serif;
+    font-weight: 100;
+    
+}
+p, li, blockquote, td, th{
+    font-family: 'PT Sans', 'Ubuntu', sans-serif; 
+    color: black;
+}
+td, th{
+    padding: 5px;
+}
+a{
+    text-decoration: none;
+}
+.smile{
+    width: 20px;
+    height: 20px;
+}
+table{
+    border-collapse: collapse;  
+}
+th, td{
+    border: 1px solid black;
+}
